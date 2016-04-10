@@ -7,6 +7,8 @@ gem 'rails', '4.1.0'
 gem 'pg'
 #use bootstrap for styles
 gem 'bootstrap-sass', '3.3.1'
+#use font awesome for icons
+gem 'font-awesome-sass', '4.2.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
