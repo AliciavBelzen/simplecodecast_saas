@@ -48,5 +48,5 @@ gem 'devise', '3.4.1'
 #use stripe for user payment
 gem 'stripe', '1.16.1'
 
-#use figero to hide secret keys
+#use figaro to hide secret keys
 gem 'figaro', '1.0.0'
